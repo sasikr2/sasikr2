@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sasikr2
+- 👋 Hi, I’m Shashi Kumar
 - 👀 I’m interested in machine learning, deep learning, high performance computing.
 - 🌱 I’m currently doing project in HPC field.
 
